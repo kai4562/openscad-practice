@@ -1,5 +1,5 @@
 // === Configuration Parameters ===
-layer_accuracy = 0.5; // detalization in mm (0.25,0.4,0.5,1.0,2,3,4,5,6,10,20)
+layer_accuracy = 0.25; // detalization in mm (0.25,0.4,0.5,1.0,2,3,4,5,6,10,20)
 is_vase = 0; // 1 for vase, 0 for candybowl
 
 wave_count = 7; // quantity of protrusion
