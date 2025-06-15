@@ -7,3 +7,8 @@
 ## vase-wave.scad
 
 ![vase](./readme/vase.jpg)
+
+## Requirements
+
+- OpenSCAD-2025.06.09 or later
+  - Enable lazy-union
